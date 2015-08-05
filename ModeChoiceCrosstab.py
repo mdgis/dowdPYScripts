@@ -49,4 +49,4 @@ def biosimCrossTab(theFile, choiceOrCaptive):
     return df, xTab, pTab
     
 #Example Function Call
-a,b,c = biosimCrossTab(pathCaptive,"Captive")
+#a,b,c = biosimCrossTab(pathCaptive,"Captive")
